@@ -1,1 +1,2 @@
-# Blogging-SIte-Mini-Project-1
+# radium
+Repository for backend cohort - Radium
